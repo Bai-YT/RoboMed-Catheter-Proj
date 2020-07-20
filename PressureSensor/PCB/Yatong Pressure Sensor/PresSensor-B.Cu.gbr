@@ -1,0 +1,52 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.0.2-5-10.14)*
+G04 #@! TF.CreationDate,2019-03-08T13:56:55-05:00*
+G04 #@! TF.ProjectId,PresSensor,50726573-5365-46e7-936f-722e6b696361,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Copper,L2,Bot*
+G04 #@! TF.FilePolarity,Positive*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.0.2-5-10.14)) date Friday, March 08, 2019 at 01:56:55 PM*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD10C,1.998980*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD11R,1.998980X1.998980*%
+G04 #@! TD*
+G04 APERTURE END LIST*
+D10*
+G04 #@! TO.P,J1,3*
+G04 #@! TO.N,Net-(J1-Pad3)*
+X138200000Y-82040000D03*
+G04 #@! TO.P,J1,4*
+G04 #@! TO.N,Net-(J1-Pad4)*
+X141500000Y-82040000D03*
+D11*
+G04 #@! TO.P,J1,1*
+G04 #@! TO.N,Net-(J1-Pad1)*
+X138300000Y-79500000D03*
+D10*
+G04 #@! TO.P,J1,2*
+G04 #@! TO.N,Net-(C1-Pad1)*
+X141500000Y-79500000D03*
+G04 #@! TD*
+G04 #@! TO.P,J2,2*
+G04 #@! TO.N,Net-(J2-Pad2)*
+X140970000Y-89500000D03*
+D11*
+G04 #@! TO.P,J2,1*
+G04 #@! TO.N,Net-(C1-Pad2)*
+X138430000Y-89460000D03*
+D10*
+G04 #@! TO.P,J2,4*
+G04 #@! TO.N,Net-(J2-Pad4)*
+X140970000Y-92700000D03*
+G04 #@! TO.P,J2,3*
+G04 #@! TO.N,Net-(J2-Pad3)*
+X138430000Y-92700000D03*
+G04 #@! TD*
+M02*
